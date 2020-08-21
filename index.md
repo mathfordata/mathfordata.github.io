@@ -7,7 +7,7 @@ Interested in Machine Learning and Data Mining, but the mathematical notation lo
 Available for free download.  This is 90-95% complete.  
 
 ## Hard Copy
-Coming soon, with better styling, a few more examples, and more excercises.  
+Coming soon from Springer, with better styling, a few more examples, and more excercises.  
 
 ## Data Sets
 Data Sets for excercises are found [here](data/)
