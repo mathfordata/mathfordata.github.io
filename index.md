@@ -4,7 +4,7 @@
 Interested in Machine Learning and Data Mining, but the mathematical notation looks strange and unintuitive, then check this book out.  It starts with probability and linear algebra, and gradually builds up to the common notation and techniques used in modern research papers -- focusing on fundamental techniques which are simple and cute and actually used.  It is filled with plenty of simple examples, hundreds of illustrations, and explanations that highlight the geometric interpretations of what is going on.  The abstract mathematics and analysis techniques and models are motivated by real problems and readers are reminders of the ethical considerations inherent in using these powerful tools.  
 
 ## Online version [v0.6](versions/M4D-v0.6.pdf)
-Available for free download.  This is 90-95% complete.  
+Available for free download.  This is 90-95% complete, and should be useful for running or taking a course.  
 
 ## Hard Copy
 Coming soon from Springer, with better styling, a few more examples, and more excercises.  
