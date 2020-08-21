@@ -1,0 +1,17 @@
+# Data Sets used for Excersizes
+
+- [A](A.csv)
+- [C-HAC](C-HAC.csv)
+- [Ck](Ck.csv)
+- [D](D.csv)
+- [G](G.csv)
+- [M](M.csv)
+- [P](P.csv)
+- [Q](Q.csv)
+- [S1](S1.txt)
+- [S2](S2.txt)
+- [XX](XX.csv)
+- [YY](YY.csv)
+- [Z](Z.csv)
+- [x](x.csv)
+- [y](y.csv)
