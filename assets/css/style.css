@@ -1,6 +1,7 @@
 ---
 ---
 
+$link-color: red;
 @import "{{ site.theme }}";
 a {
   color:#9E0927;
