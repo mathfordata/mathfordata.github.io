@@ -10,4 +10,4 @@ Available for free download.  This is 90-95% complete, and should be useful for 
 Coming soon from Springer, with better styling, a few more examples, and more excercises.  
 
 ## Data Sets
-Data Sets for excercises are found [here](data/)
+Data Sets for excercises are found [here](data/).
