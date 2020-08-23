@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: "Math for Data"
 logo: /assets/images/MathForData.png
-$link-color: red;
+$link-color: #007bb6 !default;
