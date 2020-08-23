@@ -1,7 +1,3 @@
 theme: jekyll-theme-minimal
 title: "Math for Data"
 logo: /assets/images/MathForData.png
-a {
-  color:#9E0927;
-  text-decoration:none;
-}

@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 $link-color: red;
+a {
+  color:#9E0927;
+  text-decoration:none;
+}
