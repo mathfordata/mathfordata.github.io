@@ -6,8 +6,8 @@ Interested in Machine Learning and Data Mining, but the mathematical notation lo
 ## Online version [v0.6](versions/M4D-v0.6.pdf)
 Available for free download.  This is 90-95% complete, and should be useful for running or taking a course.  
 
-## Hard Copy
-Coming soon from Springer, with better styling, a few more examples, and more excercises.  
+## Hard Copy [v1.0](https://www.springer.com/us/book/9783030623401) 
+From [Springer](https://www.springer.com/us/book/9783030623401) and on [Amazon](https://www.amazon.com/Mathematical-Foundations-Analysis-Springer-Sciences/dp/3030623408/ref=sr_1_2?dchild=1&keywords=mathematical+foundations+for+data+analysis+phillips&qid=1617123145&sr=8-2), with better styling, a few more examples, and more excercises.  
 
 ## Data Sets
 Data Sets for excercises are found [here](data/).
