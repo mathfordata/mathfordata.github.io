@@ -13,4 +13,4 @@ From [Springer](https://www.springer.com/us/book/9783030623401) and on [Amazon](
 Data Sets for excercises are found [here](data/).
 
 ## Lecture Material (including videos)
-[Material for two courses](lecture) taught from this book.
+[Material for two courses](lectures/) taught from this book.
