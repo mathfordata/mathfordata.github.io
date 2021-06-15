@@ -4,12 +4,7 @@ This book was developed from two courses.  Lecture material is provided here fro
 
 ---
 ## Foundations of Data Analysis
-This course covers most of Chapters 1,2,3,5,6,7,8, and 9 and is taught to mainly college sophomores and juniors.  
-- [UofU Fall 2020](https://www.cs.utah.edu/~jeffp/teaching/FoDA-2020/FoDA.html) iteration of course.  
-- [Lecture Playlist](https://youtube.com/playlist?list=PLbuogVdPnkCqwPNYh6kX3TiTbu3WyoXcV) on Youtube, taught over Zoom.    
-
-### Foundations of Data Analysis Slides
-Captured from writing on an iPad during lecture.   
+This course ([UofU Fall 2020](https://www.cs.utah.edu/~jeffp/teaching/FoDA-2020/FoDA.html)) covers most of Chapters 1,2,3,5,6,7,8, and 9 and is taught to mainly college sophomores and juniors.  The [Lecture Video  Playlist](https://youtube.com/playlist?list=PLbuogVdPnkCqwPNYh6kX3TiTbu3WyoXcV) is on Youtube, and was taught over Zoom.    The following links to slides written on iPad during the lecture.  
 
 - Lecture 1 : [Class Overview](FoDA-L1.pdf) w/ [Video](https://www.youtube.com/watch?v=6OKyHgfPoxI)
 - Lecture 2 : [Probability Review : Sample Space, Random Variables, Independence (Chap 1-1.2)](FoDA-L2.pdf) w/ [Video](https://www.youtube.com/watch?v=yJTiUWyiG8M)
