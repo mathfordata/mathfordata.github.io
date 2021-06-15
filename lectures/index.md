@@ -37,7 +37,29 @@ This course ([UofU Fall 2020](https://www.cs.utah.edu/~jeffp/teaching/FoDA-2020/
 
 ---
 ## Data Mining
-This course covers most of Chapters 4, 5, 7, 8, 10, and 11 and is taught to college seniors and first year graduate students.  
-- [UofU Spring 2020](https://www.cs.utah.edu/~jeffp/teaching/cs5140-S20/cs5140.html) iteration of the course. 
-- [Lecture Playlist](https://www.youtube.com/playlist?list=PLbuogVdPnkCrEf65zrd3J1UG3LT6TcDlt) on YouTube, partially taught on Zoom. 
+This course (mostly from [UofU Spring 2020](https://www.cs.utah.edu/~jeffp/teaching/cs5140-S20/cs5140.html)) covers most of Chapters 4, 5, 7, 8, 10, and 11 and is taught to college seniors and first year graduate students.  It mostly follows this [Lecture Playlist](https://www.youtube.com/playlist?list=PLbuogVdPnkCrEf65zrd3J1UG3LT6TcDlt) on YouTube, partially taught on Zoom.   The following links to slides written on iPad during the lecture.  
 
+- Lecture 1 : [Class Overview](DM-L1.pdf) w/ [Video](https://www.youtube.com/watch?v=pbFm-TGmm5U)
+- Lecture 2 : [Statistics Principles](DM-L2.pdf) (Chap 2.2-2.3) w/ [Video](https://www.youtube.com/watch?v=UEGbHg77824)
+- Lecture 3 : [Similarity : Jaccard + k-Grams](DM-L3.pdf) (Chap 4.3-4.4) w/ [Video](https://www.youtube.com/watch?v=lW-vlO_UQSU)
+- Lecture 4 : [Similarity : Min Hashing](DM-L4.pdf) (Chap 4.6.6) w/ [Video](https://www.youtube.com/watch?v=YXU7clNrynQ)
+- Lecture 5 : [Similarity : LSH](DM-L5.pdf) (Chap 4.6) w/ [Video](https://www.youtube.com/watch?v=6OO_2C3DmaA)
+- Lecture 6 : [Similarity : Distances](DM-L6.pdf)  (Chap 4-4.3)w/ [Video](https://www.youtube.com/watch?v=pfK8QnXsFt8)
+- Lecture 7 : [Similarity : Word Embeddings + ANN vs. LSH](DM-L7.pdf) (Chap 4.4) w/ [Video](https://www.youtube.com/watch?v=FzVOw2yJNZ4)
+- Lecture 8 : [Clustering : Hierarchical](DM-L8.pdf) (Chap 8.5, 8.2) w/ [Video](https://www.youtube.com/watch?v=KPUmHlh43HM)
+- Lecture 9 : [Clustering : K-Means](DM-L9.pdf) (Chap 8-8.3) w/ [Video](https://www.youtube.com/watch?v=a0ErEUXUI2g)
+- Lecture 10 : [Clustering : Spectral](DM-L10.pdf) (Chap 10.3) w/ [Video](https://www.youtube.com/watch?v=ZSOj4IhGqXs)
+- Lecture 11 : [Streaming : Model and Misra-Greis](DM-L11.pdf) (Chap 11.1 - 11.2) w/ [Video](https://www.youtube.com/watch?v=0B_onLZLftQ)
+- Lecture 12 : [Streaming : Count-Min Sketch, Count Sketch](DM-L12.pdf) (Chap 11.2) w/ [Video](https://www.youtube.com/watch?v=mEm1xg5RHEs)
+- Lecture 13 : [Regression : Basics in 2-dimensions](DM-L13.pdf) (Chap 5-5.3) w/ [Video](https://www.youtube.com/watch?v=fBALa9mC6Wk)
+- Lecture 14 : [Regression : Lasso + MP + Compressed Sensing](DM-L14.pdf) (Chap 5.5) w/ [Video](https://www.youtube.com/watch?v=670b4oOGxIg)
+- Lecture 15 : [Regression : Cross-Validation and p-values](DM-L15.pdf) (Chap 5.4) w/ [Video](https://www.youtube.com/watch?v=h6K_WwraZKw)
+- Lecture 16 : [Dim Reduce : SVD + PCA](DM-L16.pdf)  (Chap 7 -7.3, 7.5) w/ [Video](https://www.youtube.com/watch?v=hw1B6P4b45E)
+- Lecture 17 : [Dim Reduce : Matrix Sketching](DM-L17.pdf) (Chap 11.3) w/ [Video](https://www.youtube.com/watch?v=TBR-s4AXFPY)
+- Lecture 18 : [Dim Reduce : Metric Learning](DM-L18.pdf) (Chap 7.6-7.8) w/ [Video](https://www.youtube.com/watch?v=aGN2ywd1nyA)
+- Lecture 19 : [Dim Reduce : Random Projection + Noise in Data](DM-L19.pdf) (Chap 7.10, 8.6) w/ [Video](https://www.youtube.com/watch?v=27p_a7cEfoM)
+- Lecture 20 was merged into above lectures, compressed due to COVID
+- Lecture 21 was a detour on privacy and related ethical concerns
+- Lecture 22 : [Graph Analysis : Markov Chains](DM-L22.pdf) (Chap 10.1) w/ [Video](https://www.youtube.com/watch?v=H16hC1z_TNM)
+- Lecture 23 : [Graph Analysis : PageRank](DM-L23.pdf) (Chap 10.2) w/ [Video](https://www.youtube.com/watch?v=SesSn7CxeEI)
+- Lecture 24 : [Graph Analysis : Communities](DM-L24.pdf) (Chap 10.4) w/ [Video](https://www.youtube.com/watch?v=8mq-xi7Qaqk)
