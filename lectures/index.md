@@ -10,7 +10,7 @@ This course ([UofU Fall 2020](https://www.cs.utah.edu/~jeffp/teaching/FoDA-2020/
 - Lecture 2 : [Probability Review : Sample Space, Random Variables, Independence](FoDA-L2.pdf)  (Chap 1-1.2) w/ [Video](https://www.youtube.com/watch?v=yJTiUWyiG8M)
 - Lecture 3 : [Probability Review : PDFs, CDFs, Expectation, Variance, Joint and Marginal Distributions](FoDA-L3.pdf) (Chap 1.3-1.6) w/ [Video](https://www.youtube.com/watch?v=Y2c6QzbcPvs)
 - Lecture 4 : [Bayes' Rule : Maximum Likelihood](FoDA-L4.pdf) (Chap 1.7) w/ [Video](https://www.youtube.com/watch?v=jS2I7BSuU9c)
-- Lecture 5 : [Bayesian Inference(FoDA-L5.pdf) (Chap 1.8)] w/ [Video](https://www.youtube.com/watch?v=wv0A47Lpzrw)
+- Lecture 5 : [Bayesian Inference](FoDA-L5.pdf) (Chap 1.8) w/ [Video](https://www.youtube.com/watch?v=wv0A47Lpzrw)
 - Lecture 6 : [Convergence : Central Limit Theorem and Estimation](FoDA-L6.pdf) (Chap 2.1-2.2) w/ [Video](https://www.youtube.com/watch?v=7RR_Xkd45fc)
 - Lecture 7 : [Convergence : PAC Algorithms and Concentration of Measure](FoDA-L7.pdf) (Chap 2.3) w/ [Video](https://www.youtube.com/watch?v=UQqj-unGyDQ)
 - Lecture 8 : [Linear Algebra Review : Vectors, Matrices, Multiplication and Scaling](FoDA-L8.pdf) (Chap 3.1-3.2) w/ [Video](https://www.youtube.com/watch?v=FWdZn-wqvN0)
