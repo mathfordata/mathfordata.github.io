@@ -4,30 +4,30 @@ This book was developed from two courses.  Lecture material is provided here fro
 
 ---
 ## Foundations of Data Analysis
-This course ([UofU Fall 2020](https://www.cs.utah.edu/~jeffp/teaching/FoDA-2020/FoDA.html)) covers most of Chapters 1,2,3,5,6,7,8, and 9 and is taught to mainly college sophomores and juniors.  The [Lecture Video  Playlist](https://youtube.com/playlist?list=PLbuogVdPnkCqwPNYh6kX3TiTbu3WyoXcV) is on Youtube, and was taught over Zoom.    The following links to slides written on iPad during the lecture.  
+This course ([UofU Fall 2020](https://www.cs.utah.edu/~jeffp/teaching/FoDA-2020/FoDA.html)) covers most of Chapters 1,2,3,5,6,7,8, and 9 and is taught to mainly college sophomores and juniors.  The [Lecture Video  Playlist](https://youtube.com/playlist?list=PLbuogVdPnkCqwPNYh6kX3TiTbu3WyoXcV) is on Youtube, and was taught over Zoom.    The following has links to slides written on iPad during the lecture, and sometimes Colab python code.  
 
 - Lecture 1 : [Class Overview](FoDA-L1.pdf) w/ [Video](https://www.youtube.com/watch?v=6OKyHgfPoxI)
-- Lecture 2 : [Probability Review : Sample Space, Random Variables, Independence](FoDA-L2.pdf)  (Chap 1-1.2) w/ [Video](https://www.youtube.com/watch?v=yJTiUWyiG8M)
+- Lecture 2 : [Probability Review : Sample Space, Random Variables, Independence](FoDA-L2.pdf)  (Chap 1-1.2) w/ [Video](https://www.youtube.com/watch?v=yJTiUWyiG8M) and [Code](https://colab.research.google.com/drive/1IRFFSwVJOBhGL9rvKOJeJmn1dlr09hxb?usp=sharing)
 - Lecture 3 : [Probability Review : PDFs, CDFs, Expectation, Variance, Joint and Marginal Distributions](FoDA-L3.pdf) (Chap 1.3-1.6) w/ [Video](https://www.youtube.com/watch?v=Y2c6QzbcPvs)
 - Lecture 4 : [Bayes' Rule : Maximum Likelihood](FoDA-L4.pdf) (Chap 1.7) w/ [Video](https://www.youtube.com/watch?v=jS2I7BSuU9c)
 - Lecture 5 : [Bayesian Inference](FoDA-L5.pdf) (Chap 1.8) w/ [Video](https://www.youtube.com/watch?v=wv0A47Lpzrw)
-- Lecture 6 : [Convergence : Central Limit Theorem and Estimation](FoDA-L6.pdf) (Chap 2.1-2.2) w/ [Video](https://www.youtube.com/watch?v=7RR_Xkd45fc)
+- Lecture 6 : [Convergence : Central Limit Theorem and Estimation](FoDA-L6.pdf) (Chap 2.1-2.2) w/ [Video](https://www.youtube.com/watch?v=7RR_Xkd45fc) and [Code](https://colab.research.google.com/drive/10KmF9XcDco66rzxHD3rBFBKWMJHEZEdt?usp=sharing)
 - Lecture 7 : [Convergence : PAC Algorithms and Concentration of Measure](FoDA-L7.pdf) (Chap 2.3) w/ [Video](https://www.youtube.com/watch?v=UQqj-unGyDQ)
 - Lecture 8 : [Linear Algebra Review : Vectors, Matrices, Multiplication and Scaling](FoDA-L8.pdf) (Chap 3.1-3.2) w/ [Video](https://www.youtube.com/watch?v=FWdZn-wqvN0)
-- Lecture 9 : [Linear Algebra Review : Norms, Linear Independence, Rank](FoDA-L9.pdf) (Chap 3.3-3.5) w/ [Video](https://www.youtube.com/watch?v=gxoXH1JlGCA)
+- Lecture 9 : [Linear Algebra Review : Norms, Linear Independence, Rank](FoDA-L9.pdf) (Chap 3.3-3.5) w/ [Video](https://www.youtube.com/watch?v=gxoXH1JlGCA) and [Code](https://colab.research.google.com/drive/1lDsIBX-ehiIhRHWK8BDqE2XpJRZP611o?usp=sharing)
 - Lecture 10 : [Linear Algebra Review : Inverse, Orthogonality](FoDA-L10.pdf) (Chap 3.6-3.8) w/ [Video](https://www.youtube.com/watch?v=fYjhyWIJh18)
-- Lecture 11 : [Linear Regression : explanatory & dependent variables](FoDA-L11.pdf) (Chap 5.1) w/ [Video](https://www.youtube.com/watch?v=PlW83Zt8z-8)
-- Lecture 12 : [Linear Regression : multiple regression, polynomial regression](FoDA-L12.pdf) (Chap 5.2-5.3) w/ [Video](https://www.youtube.com/watch?v=ilk40EqBnB4)
-- Lecture 13 : [Linear Regression : overfitting and cross-validation](FoDA-L13.pdf) (Chap 5.4) w/ [Video](https://www.youtube.com/watch?v=k9CJSzozMHU)
+- Lecture 11 : [Linear Regression : explanatory & dependent variables](FoDA-L11.pdf) (Chap 5.1) w/ [Video](https://www.youtube.com/watch?v=PlW83Zt8z-8) and [Code](https://colab.research.google.com/drive/16VDvuLcZOl1fVOseLtAXF_XZk-sBaDNB?usp=sharing)
+- Lecture 12 : [Linear Regression : multiple regression, polynomial regression](FoDA-L12.pdf) (Chap 5.2-5.3) w/ [Video](https://www.youtube.com/watch?v=ilk40EqBnB4) and [Code for multi-regression](https://colab.research.google.com/drive/1W8kRV20VsLoaRDflfQqAn1g-Pvdz5lS9?usp=sharing) and [for poly regression](https://colab.research.google.com/drive/1hgj_14bffOQTyeLAUTbndVnjW6iECg5x?usp=sharing)
+- Lecture 13 : [Linear Regression : overfitting and cross-validation](FoDA-L13.pdf) (Chap 5.4) w/ [Video](https://www.youtube.com/watch?v=k9CJSzozMHU) and [Code](https://colab.research.google.com/drive/13uw2z_SN1Urx_y5qsUW_LMfsiTsk6t7e?usp=sharing)
 - Lecture 14 was a review
 - Lecture 15 : [Gradient Descent : functions, minimum, maximum, convexity & gradients](FoDA-L15.pdf) (Chap 6.1-6.2) w/ [Video](https://www.youtube.com/watch?v=vVp0aC1rpsM)
-- Lecture 16 : [Gradient Descent : algorithmic & convergence](FoDA-L16.pdf) (Chap 6.3) w/ [Video](https://www.youtube.com/watch?v=gIjLa2s71gE)
+- Lecture 16 : [Gradient Descent : algorithmic & convergence](FoDA-L16.pdf) (Chap 6.3) w/ [Video](https://www.youtube.com/watch?v=gIjLa2s71gE) and [Code](https://colab.research.google.com/drive/1EaVvQNjcsdMhqAF23xcCizwG9g57sGCW?usp=sharing)
 - Lecture 17 : [Gradient Descent : fitting models to data and stochastic gradient descent](FoDA-L17.pdf) (Chap 6.4) w/ [Video](https://www.youtube.com/watch?v=WMSHJ-k848g)
 - Lecture 18 : [Dimensionality Reduction : SVD](FoDA-L18.pdf) (Chap 7.1-7.2) w/ [Video](https://www.youtube.com/watch?v=grbu4AuvjZU)
-- Lecture 19 : [Dimensionality Reduction : rank-k approximation and eigenvalues](FoDA-L19.pdf) (Chap 7.2-7.3) w/ [Video](https://www.youtube.com/watch?v=ZQ-GXBsrLf4)
-- Lecture 20 : [Dimensionality Reduction : power method](FoDA-L20.pdf) (Chap 7.4) w/ [Video](https://www.youtube.com/watch?v=-sVvdRMChas)
-- Lecture 21 : [Dimensionality Reduction : PCA, centering, and MDS](FoDA-L21.pdf) (Chap 7.5-7.6) w/ [Video](https://www.youtube.com/watch?v=ulh-hnkrcio)
-- Lecture 22 : [Clustering : Voronoi Diagrams + Assignment-based Clustering](FoDA-L22.pdf) (Chap 8.1) w/ [Video](https://www.youtube.com/watch?v=C_cYT0ID3_Y)
+- Lecture 19 : [Dimensionality Reduction : rank-k approximation and eigenvalues](FoDA-L19.pdf) (Chap 7.2-7.3) w/ [Video](https://www.youtube.com/watch?v=ZQ-GXBsrLf4) and [Code](https://colab.research.google.com/drive/1P_xM_Ebnb1UrUauJyzJkro9g5hXWD7qA#scrollTo=skQ1jnUyCa5i?usp=sharing)
+- Lecture 20 : [Dimensionality Reduction : power method](FoDA-L20.pdf) (Chap 7.4) w/ [Video](https://www.youtube.com/watch?v=-sVvdRMChas) and [Code](https://colab.research.google.com/drive/13sUhs7hef0D_vG5g4uENTxinDOAkwyqg?usp=sharing)
+- Lecture 21 : [Dimensionality Reduction : PCA, centering, and MDS](FoDA-L21.pdf) (Chap 7.5-7.6) w/ [Video](https://www.youtube.com/watch?v=ulh-hnkrcio) and [Code for centering](https://colab.research.google.com/drive/1lI-QL1VWncbUSGAqTooojq-NtmJwc1Ho?usp=sharing) and [for MDS](https://colab.research.google.com/drive/1VeL6oKBG6gehTsHvw7JVW9aX_oJhOdti?usp=sharing)
+- Lecture 22 : [Clustering : Voronoi Diagrams + Assignment-based Clustering](FoDA-L22.pdf) (Chap 8.1) w/ [Video](https://www.youtube.com/watch?v=C_cYT0ID3_Y) and [Code](https://colab.research.google.com/drive/14eoJimZJKu_ON3Y65-zE16uqXiLlnIXh?usp=sharing)
 - Lecture 23 : [Clustering : k-means](FoDA-L23.pdf) (Chap 8.3) w/ [Video](https://www.youtube.com/watch?v=BIxny3uE_XU)
 - Lecture 24 : [Clustering : EM, Mixture of Gaussians, Mean-Shift](FoDA-L24.pdf) (Chap 8.4,8.7) w/ [Video](https://www.youtube.com/watch?v=e50pZxALk7o)
 - Lecture 25 : [Classification : Linear prediction](FoDA-L25.pdf) (Chap 9.1) w/ [Video](https://www.youtube.com/watch?v=lrXj8T-4T_g)
