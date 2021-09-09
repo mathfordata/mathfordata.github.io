@@ -14,3 +14,6 @@ Data Sets for excercises are found [here](data/).
 
 ## Lecture Material (including videos)
 [Material for two courses](lectures/) taught from this book.
+
+## Errata
+[Listed here](errata/)
