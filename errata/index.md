@@ -5,7 +5,7 @@ Send information on any mistakes found to *mathfordata /at/ gmail.com*
 ---
 ## Mistakes 
 
-* page 73, 151, 244 : A code block invokes "SciPy" when it should invoke "scipy" with all lower case letters.  
+* pages 73, 151, 244 : A code block invokes "SciPy" when it should invoke "scipy" with all lower case letters.  
 
 * page 154 : For matrices U, V from the SVD the book states the Frobenious norm of these matrices is 1 (that is, ||U||_F=1 and ||V||_F=1).  It should state the spectral norm is 1 (that is, ||U||_2=1 and ||V||_2=1), and point out they are norm-preserving under multiplication.  [h/t David R. Gurney](https://www.maa.org/press/maa-reviews/mathematical-foundations-for-data-analysis)
 
