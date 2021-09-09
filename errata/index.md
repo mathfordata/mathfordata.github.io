@@ -3,7 +3,6 @@
 Send information on any mistakes found to *mathfordata /at/ gmail.com*
 
 ---
-## Mistakes 
 
 * pages 73, 151, 244 : A code block invokes "SciPy" when it should invoke "scipy" with all lower case letters.  
 
