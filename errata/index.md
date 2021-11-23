@@ -3,6 +3,7 @@
 Send information on any mistakes found to *mathfordata /at/ gmail.com*
 
 ---
+* page 3 : line 14 should have condition "0.1 <= y <= 0.6" instead of "0.1 <= 0.6" in the definition of set B.  
 
 * pages 73, 151, 244 : A code block invokes "SciPy" when it should invoke "scipy" with all lower case letters.  
 
