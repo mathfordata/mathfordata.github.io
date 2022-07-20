@@ -59,14 +59,12 @@ Send information on any mistakes found to *mathfordata /at/ gmail.com*
 * page 243 : Ergodic Markov Chains box should have q_* not q^*
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
   
-* page 252, 254 : different implementation of the eigen-decomposition give somewhat different outputs for laplacians L_0 and L in the examples.  These are computed with octave's eig function.  Moreover, an eigenvalue/eigenvector pair is missing for the decomposition of L_0.  
-  [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
+* page 252, 254 : different implementation of the eigen-decomposition give somewhat different outputs for laplacians L_0 and L in the examples.  These are computed with octave's eig function.  Moreover, an eigenvalue/eigenvector pair is missing for the decomposition of L_0. [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
 
 * page 263 : second last line has an extra "m'+1"
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
   
-* page 272 : Algorithm 11.2.4 should say "Count Sketch" not "Count-Min Sketch"
-  [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
+* page 272 : Algorithm 11.2.4 should say "Count Sketch" not "Count-Min Sketch" [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
   
 * page 272 : the last formula "C_{i,h_i}(q)" should be "C_{i,h_i(q)}" where (q) is in the subscript.  
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
