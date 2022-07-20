@@ -66,8 +66,7 @@ Send information on any mistakes found to *mathfordata /at/ gmail.com*
   
 * page 272 : Algorithm 11.2.4 should say "Count Sketch" not "Count-Min Sketch" [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
   
-* page 272 : the last formula "C_{i,h_i}(q)" should be "C_{i,h_i(q)}" where (q) is in the subscript.  
-  [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
+* page 272 : the last formula "C_{i,h_i}(q)" should be "C_{i,h_i(q)}" where (q) is in the subscript.  [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
 
 * page 274 : the second to last paragraph should say "the eigenvalues of C are the squared singular values of A" not "of C"
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
