@@ -24,7 +24,7 @@ Send information on any mistakes found to *mathfordata /at/ gmail.com*
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
 
 * page 65 : end of first line: 1-cos(a,b) should be 1-cos(theta_{a,b})
-  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+  [h/t Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
 
 * pages 73, 151, 244 : A code block invokes "SciPy" when it should invoke "scipy" with all lower case letters.  
 
@@ -32,19 +32,19 @@ Send information on any mistakes found to *mathfordata /at/ gmail.com*
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
   
 * page 98 : the 7th entry for the 7 vector should be 223
-  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+  [h/t Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
 
 * page 101 : line 5, should have alpha_0 = $26.26
-  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+  [h/t Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
 
 * page 101 : alpha = LA.lstsq(X,y)[0] should be alpha = LA.lstsq(X,y, rcond=None)[0].
-  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+  [h/t Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
 
 * page 104 : last element of y should be y_n not v_n
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
   
 * page 105 : p={1,2,3,4,5,8} should be p \in {1,2,3,4,5,8}
-  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+  [h/t Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
   
 * page 108 : the right term of SS_{reg} should be ||r||^2
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
