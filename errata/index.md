@@ -20,19 +20,37 @@ Send information on any mistakes found to *mathfordata /at/ gmail.com*
 * page 54 : the determinant section:  the vectors b-a and d-c should be (b,a) and (d,c)
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
  
-* page 64 : second paragraph of 4.2.3: d_cos(A,B) should be d_cos(alb)
+* page 64 : second paragraph of 4.2.3: d_cos(A,B) should be d_cos(a,b)
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
+
+* page 65 : end of first line: 1-cos(a,b) should be 1-cos(theta_{a,b})
+  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
 
 * pages 73, 151, 244 : A code block invokes "SciPy" when it should invoke "scipy" with all lower case letters.  
 
 * page 84 : the second paragraph of 4.6.3 should discuss "false negatives" not "false positives"
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
   
+* page 98 : the 7th entry for the 7 vector should be 223
+  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+
+* page 101 : line 5, should have alpha_0 = $26.26
+  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+
+* page 101 : alpha = LA.lstsq(X,y)[0] should be alpha = LA.lstsq(X,y, rcond=None)[0].
+  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+
 * page 104 : last element of y should be y_n not v_n
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
   
+* page 105 : p={1,2,3,4,5,8} should be p \in {1,2,3,4,5,8}
+  [h/h Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
+  
 * page 108 : the right term of SS_{reg} should be ||r||^2
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
+  
+* page 112 : the figure in the example was solved using (X^T X + sI)^{-1} X^T y with s=0.01 instead of (X^T X + (s/n)I)^{-1} X^T y with s=0.01 and n=8.  Using this second form, the example uses s=0.08
+  [h/t Shahrokh Esmaeili](https://scholar.google.com/citations?hl=en&user=vvBlqJMAAAAJ)
   
 * page 117 : the first X_6^T in the third paragraph should be X_4^T
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
