@@ -54,6 +54,9 @@ Send information on any mistakes found to *mathfordata /at/ gmail.com*
   
 * page 117 : the first X_6^T in the third paragraph should be X_4^T
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
+
+* page 145 : first bullet should replace all j with i so it reads "For each v_i in V_B we have ||v_i|| = 1, that is v_i is a unit vector."  
+  [h/t Frank Weilandt](https://www.linkedin.com/in/frank-weilandt-265475157/)
   
 * page 148 : "non-decreasing" should be "non-increasing"
   [h/t Bolin Chen](https://teacher.nwpu.edu.cn/m/en/2015010039.html)
