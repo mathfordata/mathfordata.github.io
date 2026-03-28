@@ -12,6 +12,6 @@
 - [S2](S2.txt)
 - [XX](XX.csv)
 - [YY](YY.csv)
-- [Z](Z.csv)
+- [Z](https://users.cs.utah.edu/~jeffp/Z.csv)
 - [x](x.csv)
 - [y](y.csv)
